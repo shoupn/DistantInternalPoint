@@ -1,11 +1,7 @@
-## PolyLabel.cs Added
 ## Convert PolyLabel.js to C#
-## polylabel 
 https://blog.mapbox.com/a-new-algorithm-for-finding-a-visual-center-of-a-polygon-7c77e6492fbc
 
-
-
-## polylabel [![Build Status](https://travis-ci.org/mapbox/polylabel.svg?branch=master)](https://travis-ci.org/mapbox/polylabel)
+## Most DistantInternalPoint
 
 A fast algorithm for finding polygon _pole of inaccessibility_,
 the most distant internal point from the polygon outline (not to be confused with centroid),
